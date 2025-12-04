@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/MayurSaitwal/Example/Toast/ToastExample.unity
-    guid: e4b31a1d032ef4cf1a52ee03b9460ea4
   - enabled: 1
     path: Assets/WeatherApp/Scene/Weathor.unity
     guid: 7d266a7257faf4d74a170e867ebf09f4
