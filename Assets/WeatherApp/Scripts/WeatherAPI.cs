@@ -6,8 +6,6 @@ using UnityEngine.Networking;
 
 public class WeathorAPI 
 {
-   // [Header("Location Inputs")]
-  //  public string timezone = "IST";
 
     public static IEnumerator GetWeatherData(float latitude, float longitude , string timezone,string dailyParam,Action<WeatherResponse> onComplete)
     {
